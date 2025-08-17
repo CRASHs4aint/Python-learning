@@ -1,0 +1,1 @@
+    print("The list is not palindrome.")    

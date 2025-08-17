@@ -1,0 +1,1 @@
+print("The character '$'occurs %s times in the given string",count)

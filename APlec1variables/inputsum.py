@@ -1,0 +1,5 @@
+# print(Enter first number:)
+a=int(input("Enter first number:"))
+# print(Enter second number:)
+b=int(input("Enter second number:"))
+print(a+b)

@@ -1,0 +1,11 @@
+l1=[1,34,56,7,8,0]
+l1.sort()
+print(l1)
+l1.reverse()
+print(l1)
+l1.insert(1,95)
+print(l1)
+print(l1.pop(4))
+print(l1)
+l1.remove(0)
+print(l1)
