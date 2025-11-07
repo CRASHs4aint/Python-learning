@@ -1,0 +1,3 @@
+Python is fun !
+We are learning file handling
+Appending newLine to the file.
